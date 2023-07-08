@@ -1,0 +1,1 @@
+create a table todo_list(task_id INT PRIMARY KEY NOT NULL, task_name VARCHAR(250) NOT NULL, descrition text, is_completed BOOLEAN);
